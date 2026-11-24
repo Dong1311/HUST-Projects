@@ -94,5 +94,44 @@
       "refs/pull/1/head 5908eebf76f84dcabceb266a67fad03b5177f036"
     ],
     "BundleSHA256": "F033811717A58D78250F7088518D5EC5DEE4471DB8C75D7A53B2964478DC89B2"
+  },
+  {
+    "Source": "Dong1311/IntroSE",
+    "Directory": "IntroSE",
+    "DefaultBranch": "master",
+    "OriginalCommit": "460bd239ba0a44814035f97f3a76fb79e767630f",
+    "OriginalTree": "3abe9cec83f9e10fc508727ae76cd3375efab768",
+    "DefaultBranchCommits": 1,
+    "AllCommits": 1,
+    "Refs": [
+      "refs/heads/master 460bd239ba0a44814035f97f3a76fb79e767630f"
+    ],
+    "BundleSHA256": "519C6ECED44A5D86098B5BB79AAFD89CA81A029BAAE87E3B7F7D9775201747A0"
+  },
+  {
+    "Source": "Dong1311/Vacuum2",
+    "Directory": "Vacuum2",
+    "DefaultBranch": "master",
+    "OriginalCommit": "26230ead5562cd38857f662f3be4b4563d3b65be",
+    "OriginalTree": "b521c24dd15392c4f529db56d17413aafad7691e",
+    "DefaultBranchCommits": 1,
+    "AllCommits": 1,
+    "Refs": [
+      "refs/heads/master 26230ead5562cd38857f662f3be4b4563d3b65be"
+    ],
+    "BundleSHA256": "1D6F5368D5661BA2E99BF8C212F279D1EF4C420CFCED57CA04F2E5493E79DB71"
+  },
+  {
+    "Source": "Dong1311/OOP",
+    "Directory": "OOP",
+    "DefaultBranch": "main",
+    "OriginalCommit": "defe32a38c5ba8999f128ff72d5f55d78081f6c9",
+    "OriginalTree": "afea1df089be36ccafec8c74b24258d843e1e208",
+    "DefaultBranchCommits": 1,
+    "AllCommits": 1,
+    "Refs": [
+      "refs/heads/main defe32a38c5ba8999f128ff72d5f55d78081f6c9"
+    ],
+    "BundleSHA256": "1204DA70DC53D2C089B5A83C52F47F292C4C675AFBA45A8DF4C775EAFA3D273C"
   }
 ]

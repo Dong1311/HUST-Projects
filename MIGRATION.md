@@ -11,6 +11,9 @@ Imported on 2026-11-24 from the following public repositories owned by `Dong1311
 | `Crawl_For_Spark` | `main` | `09d05cb3f7c3c0e81be07a5221a189039cc47d29` |
 | `Big-Data-Crawl-Comment-Shopee` | `master` | `43cbf96fab0540164c0f497aca1074d5268bd815` |
 | `Cross-Platform` | `master` | `59716be4d22c0666cd65131c6c01b4234163858c` |
+| `IntroSE` | `master` | `460bd239ba0a44814035f97f3a76fb79e767630f` |
+| `Vacuum2` | `master` | `26230ead5562cd38857f662f3be4b4563d3b65be` |
+| `OOP` | `main` | `defe32a38c5ba8999f128ff72d5f55d78081f6c9` |
 
 Each default branch was imported with Git subtree without squashing. Its original commits remain reachable from `main`, with unchanged commit IDs, authors, and timestamps. Each project directory has the same Git tree as its source revision, including tracked file contents and modes.
 
